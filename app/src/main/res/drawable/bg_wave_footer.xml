@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Two-tone wave footer anchored to the bottom of the punch screen. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="380dp"
+    android:height="170dp"
+    android:viewportWidth="380"
+    android:viewportHeight="170">
+    <path
+        android:fillColor="@color/script_india_blue_deep"
+        android:pathData="M0,70 C70,20 140,20 190,55 C250,95 320,95 380,45 L380,170 L0,170 Z" />
+    <path
+        android:fillColor="@color/script_india_blue"
+        android:fillAlpha="0.55"
+        android:pathData="M0,95 C60,58 130,58 190,88 C250,118 310,118 380,80 L380,170 L0,170 Z" />
+</vector>

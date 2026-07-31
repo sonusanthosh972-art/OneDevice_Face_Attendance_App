@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Soft decorative blob behind the logo, top-left of the punch screen. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+    <path
+        android:fillColor="@color/decor_blob_color"
+        android:pathData="M100,18 C138,14 176,42 184,86 C192,130 162,178 112,186 C62,194 16,158 12,108 C8,60 46,24 100,18 Z" />
+</vector>

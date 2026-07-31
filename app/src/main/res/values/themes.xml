@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.FaceFrontend" parent="Theme.Material3.DayNight.NoActionBar">
+    </style>
+
+    <style name="Theme.Login" parent="Theme.FaceFrontend">
+        <item name="android:statusBarColor">@color/white</item>
+        <item name="android:navigationBarColor">@color/white</item>
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:windowLightNavigationBar">true</item>
+    </style>
+
+    <style name="Theme.Punch" parent="Theme.FaceFrontend">
+        <item name="android:statusBarColor">@color/punch_screen_bg</item>
+        <item name="android:navigationBarColor">@color/script_india_blue_deep</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+</resources>
