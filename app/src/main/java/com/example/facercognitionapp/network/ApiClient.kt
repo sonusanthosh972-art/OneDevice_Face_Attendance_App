@@ -12,6 +12,7 @@ import javax.net.ssl.*
 object ApiClient {
 
     private const val BASE_URL = "https://attendanceapp.scriptindia.in/"
+//    private const val BASE_URL = "https://demo.scriptindia.in:8010/"
 
     private val logging = HttpLoggingInterceptor().apply {
         // Use BODY while debugging face-match responses; set back to BASIC for production.
